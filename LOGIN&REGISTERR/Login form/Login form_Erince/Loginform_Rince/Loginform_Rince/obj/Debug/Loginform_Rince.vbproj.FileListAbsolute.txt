@@ -1,0 +1,12 @@
+D:\LOGIN&REGISTER\Login form\Login form_Erince\Loginform_Rince\Loginform_Rince\bin\Debug\Loginform_Rince.exe.config
+D:\LOGIN&REGISTER\Login form\Login form_Erince\Loginform_Rince\Loginform_Rince\bin\Debug\Loginform_Rince.exe
+D:\LOGIN&REGISTER\Login form\Login form_Erince\Loginform_Rince\Loginform_Rince\bin\Debug\Loginform_Rince.pdb
+D:\LOGIN&REGISTER\Login form\Login form_Erince\Loginform_Rince\Loginform_Rince\bin\Debug\Loginform_Rince.xml
+D:\LOGIN&REGISTER\Login form\Login form_Erince\Loginform_Rince\Loginform_Rince\obj\Debug\Loginform_Rince.vbproj.AssemblyReference.cache
+D:\LOGIN&REGISTER\Login form\Login form_Erince\Loginform_Rince\Loginform_Rince\obj\Debug\Loginform_Rince.Form1.resources
+D:\LOGIN&REGISTER\Login form\Login form_Erince\Loginform_Rince\Loginform_Rince\obj\Debug\Loginform_Rince.Resources.resources
+D:\LOGIN&REGISTER\Login form\Login form_Erince\Loginform_Rince\Loginform_Rince\obj\Debug\Loginform_Rince.vbproj.GenerateResource.cache
+D:\LOGIN&REGISTER\Login form\Login form_Erince\Loginform_Rince\Loginform_Rince\obj\Debug\Loginform_Rince.vbproj.CoreCompileInputs.cache
+D:\LOGIN&REGISTER\Login form\Login form_Erince\Loginform_Rince\Loginform_Rince\obj\Debug\Loginform_Rince.exe
+D:\LOGIN&REGISTER\Login form\Login form_Erince\Loginform_Rince\Loginform_Rince\obj\Debug\Loginform_Rince.xml
+D:\LOGIN&REGISTER\Login form\Login form_Erince\Loginform_Rince\Loginform_Rince\obj\Debug\Loginform_Rince.pdb

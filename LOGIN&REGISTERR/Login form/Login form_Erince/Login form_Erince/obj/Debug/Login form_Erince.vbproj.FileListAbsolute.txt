@@ -1,0 +1,12 @@
+D:\LOGIN&REGISTER\Login form\Login form_Erince\Login form_Erince\bin\Debug\Login form_Erince.exe.config
+D:\LOGIN&REGISTER\Login form\Login form_Erince\Login form_Erince\bin\Debug\Login form_Erince.exe
+D:\LOGIN&REGISTER\Login form\Login form_Erince\Login form_Erince\bin\Debug\Login form_Erince.pdb
+D:\LOGIN&REGISTER\Login form\Login form_Erince\Login form_Erince\bin\Debug\Login form_Erince.xml
+D:\LOGIN&REGISTER\Login form\Login form_Erince\Login form_Erince\obj\Debug\Login form_Erince.vbproj.AssemblyReference.cache
+D:\LOGIN&REGISTER\Login form\Login form_Erince\Login form_Erince\obj\Debug\Login_form_Erince.Form1.resources
+D:\LOGIN&REGISTER\Login form\Login form_Erince\Login form_Erince\obj\Debug\Login_form_Erince.Resources.resources
+D:\LOGIN&REGISTER\Login form\Login form_Erince\Login form_Erince\obj\Debug\Login form_Erince.vbproj.GenerateResource.cache
+D:\LOGIN&REGISTER\Login form\Login form_Erince\Login form_Erince\obj\Debug\Login form_Erince.vbproj.CoreCompileInputs.cache
+D:\LOGIN&REGISTER\Login form\Login form_Erince\Login form_Erince\obj\Debug\Login form_Erince.exe
+D:\LOGIN&REGISTER\Login form\Login form_Erince\Login form_Erince\obj\Debug\Login form_Erince.xml
+D:\LOGIN&REGISTER\Login form\Login form_Erince\Login form_Erince\obj\Debug\Login form_Erince.pdb
